@@ -1,0 +1,45 @@
+.card{
+    width: 100px;
+}
+
+.col1{
+   width: 50%;
+   float:left;
+}
+
+.js_character_list{
+    color:blue;
+}
+
+.js_favorites_list{
+    color:blue;
+}
+
+.button1{
+    background-color: blue;
+    border-color: transparent;
+    
+}
+
+
+.search{
+    color:white;
+}
+
+.paintcard{
+    background-color: red;
+    height: 100%;
+    width: 50%;
+}
+
+.tittle{
+    display:flex;
+    justify-content: center;
+}
+
+.form{
+    display:flex;
+    justify-content: center;
+
+
+}
